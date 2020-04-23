@@ -1,0 +1,1 @@
+singleton : contoh pengaplikasian saat konek ke database kita tidak perlu konek berulang2
